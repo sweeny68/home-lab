@@ -1,4 +1,4 @@
-#Home Pentesting Lab Infrastructure
+# Home Pentesting Lab Infrastructure
 
 This repository documents my self-hosted pentesting lab environment, designed to support hands-on security testing, learning, and certification preparation (e.g., Security+).
 
